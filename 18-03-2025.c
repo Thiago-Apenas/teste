@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("hello word");
+	printf("bem vindo ao laboratorio de progamação 2! ");
 	
 	return 0;
 }
